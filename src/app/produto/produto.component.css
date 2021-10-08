@@ -1,0 +1,40 @@
+.barra{
+    background: rgb(198,22,147);
+    background: linear-gradient(90deg, #BA68C8 37%, rgba(0,173,249,1) 77%, rgba(0,170,249,1) 100%);
+}
+
+.fs-54{
+   font-size: 70px;
+}
+
+.button{
+    border-radius: 20px 20px 20px 20px;
+    background-color: white;
+    color: #7756b8;
+    font-weight: bold;
+    font-family: 'Poppins';    
+    }
+.button:hover{
+    background-color: #7756b8;
+    color: white;
+}
+
+
+input {
+    padding: 10px;
+    max-width: 100%;
+    line-height: 1.5;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px #999;
+}
+
+
+textarea {
+    padding: 10px;
+    max-width: 100%;
+    line-height: 1.5;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px #999;
+}
